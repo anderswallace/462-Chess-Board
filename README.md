@@ -8,9 +8,9 @@ This project depends on the python-chess library, to install for Python 3.5+, ru
 
 ## Using the Program
 
-* To run the program, run the program:
+* To play the game, run the program:
 
-`python3 chess_board.py`
+`python3 chess_main.py`
 
 * This program simulates playing against an AI. When prompted, the user will input a string of the space they are moving from to the space they are moving to, ex. `a7a5`
 
