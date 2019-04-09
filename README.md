@@ -13,3 +13,7 @@ This project depends on the python-chess library, to install for Python 3.X, run
 * To quit the game, enter `q`
 
 * To restart the game, enter `r`
+
+## Documentation
+
+For further reading about how to use python-chess you can visit the website [here](https://python-chess.readthedocs.io/en/latest/)
