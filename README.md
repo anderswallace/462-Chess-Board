@@ -12,7 +12,7 @@ This project depends on the python-chess library, to install for Python 3.5+, ru
 
 `python3 chess_main.py`
 
-* This program simulates playing against an AI. When prompted, the user will input a string of the space they are moving from to the space they are moving to, ex. `a7a5`
+* This program simulates playing against an AI. When prompted, the user will input a string of the space they are moving from to the space they are moving to; for example if the user is moving from A7 to A5 then the user will input `a7a5`
 
 * To quit the game, enter `q`
 
