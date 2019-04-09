@@ -8,6 +8,6 @@ This project depends on the python-chess library, to install for Python 3.X, run
 
 ## Using the Program
 
-This program simulates playing against an AI. To make a move, the user will input a string of the space they are moving from to the space they are moving to i.e. `"a7a5"`
+This program simulates playing against an AI. To make a move, the user will input a string of the space they are moving from to the space they are moving to i.e. `a7a5`
 
-To quit the program, enter `"q"`
+To quit the program, enter `q`
