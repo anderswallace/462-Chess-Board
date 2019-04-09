@@ -1,3 +1,5 @@
+# CSCE 462: An Interactive Chess Board
+
 ## Dependencies:
 
 This project depends on the python-chess library, to install for Python 3.X, run the command:
