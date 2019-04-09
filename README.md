@@ -2,13 +2,17 @@
 
 ## Dependencies
 
-This project depends on the python-chess library, to install for Python 3.X, run the command:
+This project depends on the python-chess library, to install for Python 3.5+, run the command:
 
 `pip3 install python-chess`
 
 ## Using the Program
 
-* This program simulates playing against an AI. To make a move, the user will input a string of the space they are moving from to the space they are moving to, ex. `a7a5`
+* To run the program, run the program:
+
+`python3 chess_board.py`
+
+* This program simulates playing against an AI. When prompted, the user will input a string of the space they are moving from to the space they are moving to, ex. `a7a5`
 
 * To quit the game, enter `q`
 
