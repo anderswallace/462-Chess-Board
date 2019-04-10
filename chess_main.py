@@ -17,7 +17,7 @@ def user_move(user_text, board):
 
 def check_input(user_text, board):
 	if user_text == "q":
-		engine.quit()
+		#engine.quit()
 		print("\nQUITTING GAME")
 		quit()
 	elif user_text == "r":
