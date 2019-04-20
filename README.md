@@ -6,7 +6,7 @@ This project depends on the python-chess library, to install for Python 3.5+, ru
 
 `pip3 install python-chess`
 
-Additionally the arudino uses `FastLED` library to control the LED strips. This can be downloaded by clicking [here](https://github.com/FastLED/FastLED/archive/master.zip)
+Additionally the Arduino uses `FastLED` library to control the LED strips. This can be downloaded by clicking [here](https://github.com/FastLED/FastLED/archive/master.zip)
 
 ## Using the Program
 
