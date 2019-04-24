@@ -6,6 +6,8 @@ This project depends on the python-chess library, to install for Python 3.5+, ru
 
 `pip3 install python-chess`
 
+Also, the python program calls on the Stockfish engine to recreate the chess logic. Download the appropriate engine for your system [here](https://stockfishchess.org/download/)
+
 Additionally the Arduino uses `FastLED` library to control the LED strips. This can be downloaded by clicking [here](https://github.com/FastLED/FastLED/archive/master.zip)
 
 ## Using the Program
