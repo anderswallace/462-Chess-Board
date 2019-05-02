@@ -12,13 +12,13 @@ Additionally the Arduino uses `FastLED` library to control the LED strips. This 
 
 ## Using the Program
 
-* To play the game, run the program:
+* To play the game, set the program to run on startup, or run the program:
 
 `python3 chess_main.py`
 
 Note: The program calls the Stockfish engine from the user directory in order for the game to run. Make sure to replace this function argument with your own file directory so the engine can be successfully called on startup.
 
-* When prompted, the user will input a string of the space they are moving from to the space they are moving to; for example if the user is moving from A7 to A5 then the user will input `a7a5`
+* After the computer makes its move (it is white so it always goes first), the user will click the buttons representing the piece its moving, and then the buttons representing the space its moving to, i.e. `a7a6`
 
 * To quit the game, enter `q`
 
