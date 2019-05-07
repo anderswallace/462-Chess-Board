@@ -18,7 +18,7 @@ Additionally the Arduino uses `FastLED` library to control the LED strips. This 
 
 Note: The program calls the Stockfish engine from the user directory in order for the game to run. Make sure to replace this function argument with your own file directory so the engine can be successfully called on startup.
 
-* After the computer makes its move (it is white so it always goes first), the user will click the buttons representing the piece its moving, and then the buttons representing the space its moving to, i.e. `a7a6`
+* After the computer makes its move (it is white so it always goes first), the user will click the buttons representing the piece its moving from, and then the buttons representing the space its moving to, i.e. `a7a6`
 
 * Once the game is over (i.e. the computer or user is in checkmate), the LEDs will flash and then turn off, ending the program
 
