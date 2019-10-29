@@ -4,6 +4,12 @@
 
 This project was developed by Anders Wallace and Zach Hein
 
+## Overview
+
+The system for this chess board is relatively simple. The whole system consists of a Raspberry Pi with the Stockfish engine on it, an Arduino which controls the LED array, and an XY system of buttons along the sides of the board feeding into the Arudino. 
+
+The engine sends the move of the computer to the Arduino, which is parsed and then lights up the corresponding LED spaces to move to and from. The user then moves the computer piece, and then his own piece, pressing the X and Y buttons to tell the Arduino the human player move. This move is processed and the LEDs are light up to show feedback for where the human player is moving. This move is sent from the Arduino to the Raspberry Pi so the engine can see the other players' move, which restarts the cycle until a player has lost.
+
 ## Dependencies
 
 This project depends on the python-chess library, to install for Python 3.5+, run the command:
