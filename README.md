@@ -23,7 +23,7 @@ Note: The program calls the Stockfish engine from the user directory in order fo
 * Once the game is over (i.e. the computer or user is in checkmate), the LEDs will flash and then turn off, ending the program
 
 ## Demonstration
-
+[Here](https://youtu.be/W13wSfIYjTs) is a demonstration of the chess board functionality. 
 
 ## Documentation
 
